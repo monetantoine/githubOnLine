@@ -1,0 +1,5 @@
+user = mailuser 
+password = coucou 
+hosts = 127.0.0.1 
+dbname = dbNour-eddine 
+query = SELECT 1 FROM domain WHERE domain='%s'

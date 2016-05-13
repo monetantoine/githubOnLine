@@ -1,0 +1,2 @@
+[Tue May 10 12:05:34.360650 2016] [mpm_prefork:notice] [pid 10058] AH00163: Apache/2.4.10 (Debian) configured -- resuming normal operations
+[Tue May 10 12:05:34.360810 2016] [core:notice] [pid 10058] AH00094: Command line: '/usr/sbin/apache2'
